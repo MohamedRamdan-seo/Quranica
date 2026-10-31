@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320">
+<rect x="3" y="3" width="954" height="314" rx="36" fill="#f6eddb"/>
+<g transform="translate(155,38)"><circle cx="80" cy="111" r="105" fill="#e9d3a0"/><path d="M80 71c-40-24-75-21-115-6v120c35-13 79-11 115 12 36-23 80-25 115-12V65c-40-15-75-18-115 6Z" fill="#2d456f" stroke="#d9af54" stroke-width="7"/><path d="M80 71v126M-17 81c32-10 62-7 87 9m20 0c25-16 55-19 87-9" stroke="#eccd87" stroke-width="4" fill="none"/></g>
+<g transform="translate(465,38)"><circle cx="80" cy="111" r="105" fill="#e8ddb2"/><path d="M29 190V78q0-36 35-36h42q35 0 35 36v112" fill="#304b73" stroke="#caa24f" stroke-width="6"/><text x="83" y="134" fill="#f9e2a5" font-family="Georgia,serif" font-size="65" text-anchor="middle">ع</text><path d="M11 193h138" stroke="#cca755" stroke-width="8" stroke-linecap="round"/></g>
+<g transform="translate(775,38)"><circle cx="80" cy="111" r="105" fill="#e9d3a0"/><path d="M80 23 132 51v65c0 43-26 68-52 85-26-17-52-42-52-85V51Z" fill="#2d456f" stroke="#d2a957" stroke-width="6"/><path d="m57 104 16 16 31-35" stroke="#f6d980" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+</svg>
