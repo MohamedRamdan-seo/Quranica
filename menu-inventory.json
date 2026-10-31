@@ -1,0 +1,228 @@
+{
+  "source": "Original user-provided Quranica menu, Pasted text.txt",
+  "unique_course_and_category_links": 35,
+  "all_courses_index": "https://quranica.com/courses/",
+  "audiences": {
+    "Kids": [
+      {
+        "name": "Quran classes for toddlers",
+        "url": "https://quranica.com/courses/quran/for-toddlers/"
+      },
+      {
+        "name": "Online Quran classes for kids",
+        "url": "https://quranica.com/courses/quran/for-kids/"
+      },
+      {
+        "name": "Qaida for kids",
+        "url": "https://quranica.com/courses/quran/for-kids/qaida/"
+      },
+      {
+        "name": "Quran Hifz classes for kids",
+        "url": "https://quranica.com/courses/quran/for-kids/hifz/"
+      },
+      {
+        "name": "Tajweed for kids",
+        "url": "https://quranica.com/courses/quran/for-kids/tajweed/"
+      },
+      {
+        "name": "Learn Arabic for kids",
+        "url": "https://quranica.com/courses/arabic/classes-for-kids/"
+      },
+      {
+        "name": "Islamic studies for kids",
+        "url": "https://quranica.com/courses/islamic-studies/curriculum-and-classes-for-kids/"
+      },
+      {
+        "name": "Five pillars of Islam for kids",
+        "url": "https://quranica.com/courses/islamic-studies/five-pillars-for-kids/"
+      }
+    ],
+    "Women": [
+      {
+        "name": "Online Quran classes for ladies",
+        "url": "https://quranica.com/courses/quran/for-ladies-and-sisters/"
+      },
+      {
+        "name": "Hifz classes for Ladies and sisters",
+        "url": "https://quranica.com/courses/quran/memorization-and-hifz/for-ladies/"
+      },
+      {
+        "name": "Online Tajweed classes for sisters",
+        "url": "https://quranica.com/courses/quran/tajweed/for-sisters/"
+      },
+      {
+        "name": "Online Islamic courses for ladies",
+        "url": "https://quranica.com/courses/islamic-studies/for-ladies-and-sisters/"
+      }
+    ],
+    "Adults": [
+      {
+        "name": "Online Quran classes for adults",
+        "url": "https://quranica.com/courses/quran/for-adults/"
+      },
+      {
+        "name": "Online Quran classes for adults UK",
+        "url": "https://quranica.com/courses/quran/for-adults-in-uk/"
+      },
+      {
+        "name": "Hifz program for adults",
+        "url": "https://quranica.com/courses/quran/memorization-and-hifz/for-adults/"
+      },
+      {
+        "name": "Tajweed classes for adults",
+        "url": "https://quranica.com/courses/quran/tajweed/for-adults/"
+      }
+    ]
+  },
+  "our_courses_by_subject": {
+    "Quran Learning": [
+      {
+        "name": "Online Quran courses",
+        "url": "https://quranica.com/course/quran/"
+      },
+      {
+        "name": "Quran classes for toddlers",
+        "url": "https://quranica.com/courses/quran/for-toddlers/"
+      },
+      {
+        "name": "Online ijazah course",
+        "url": "https://quranica.com/courses/quran/ijazah-certificate/"
+      },
+      {
+        "name": "Learn Quran reading",
+        "url": "https://quranica.com/courses/quran/reading-classes/"
+      },
+      {
+        "name": "Ten Qirat course",
+        "url": "https://quranica.com/courses/quran/ten-qiraat/"
+      },
+      {
+        "name": "Online Quran classes for beginners",
+        "url": "https://quranica.com/courses/quran/for-beginners/"
+      },
+      {
+        "name": "Online Quran recitation course",
+        "url": "https://quranica.com/courses/quran/recitation-learning/recitation-learning/"
+      },
+      {
+        "name": "Online Quran classes for ladies",
+        "url": "https://quranica.com/courses/quran/for-ladies-and-sisters/"
+      },
+      {
+        "name": "Noorani Qaida",
+        "url": "https://quranica.com/courses/quran/noorani-qaida-with-arabic-and-tajweed/"
+      },
+      {
+        "name": "Online Quran classes for kids",
+        "url": "https://quranica.com/courses/quran/for-kids/"
+      },
+      {
+        "name": "Qaida for kids",
+        "url": "https://quranica.com/courses/quran/for-kids/qaida/"
+      },
+      {
+        "name": "Quran Hifz classes for kids",
+        "url": "https://quranica.com/courses/quran/for-kids/hifz/"
+      },
+      {
+        "name": "Online Quran classes for adults",
+        "url": "https://quranica.com/courses/quran/for-adults/"
+      },
+      {
+        "name": "Online Quran classes for adults UK",
+        "url": "https://quranica.com/courses/quran/for-adults-in-uk/"
+      }
+    ],
+    "Tajweed & Hifz": [
+      {
+        "name": "Tajweed for kids",
+        "url": "https://quranica.com/courses/quran/for-kids/tajweed/"
+      },
+      {
+        "name": "Quran memorization and hifz",
+        "url": "https://quranica.com/courses/quran/memorization-and-hifz/"
+      },
+      {
+        "name": "Juz 30 memorization",
+        "url": "https://quranica.com/courses/quran/memorization-and-hifz/juz-30/"
+      },
+      {
+        "name": "Hifz program for adults",
+        "url": "https://quranica.com/courses/quran/memorization-and-hifz/for-adults/"
+      },
+      {
+        "name": "Hifz classes for Ladies and sisters",
+        "url": "https://quranica.com/courses/quran/memorization-and-hifz/for-ladies/"
+      },
+      {
+        "name": "Learn Quran with tajweed",
+        "url": "https://quranica.com/courses/quran/tajweed/"
+      },
+      {
+        "name": "Online Tajweed classes for sisters",
+        "url": "https://quranica.com/courses/quran/tajweed/for-sisters/"
+      },
+      {
+        "name": "Tajweed classes for adults",
+        "url": "https://quranica.com/courses/quran/tajweed/for-adults/"
+      },
+      {
+        "name": "Learn Tajweed for beginners",
+        "url": "https://quranica.com/courses/quran/tajweed/for-beginners/"
+      },
+      {
+        "name": "Amli Tajweed course",
+        "url": "https://quranica.com/courses/quran/tajweed/amli-course/"
+      },
+      {
+        "name": "Tajweed test and practice",
+        "url": "https://quranica.com/courses/quran/tajweed/test-practice/"
+      },
+      {
+        "name": "Advanced Tajweed course",
+        "url": "https://quranica.com/courses/quran/tajweed/advanced-tajweed/"
+      }
+    ],
+    "Arabic Learning": [
+      {
+        "name": "Learn Arabic online course",
+        "url": "https://quranica.com/courses/arabic/"
+      },
+      {
+        "name": "Learn Arabic for kids",
+        "url": "https://quranica.com/courses/arabic/classes-for-kids/"
+      },
+      {
+        "name": "Learn Quranic Arabic online",
+        "url": "https://quranica.com/courses/arabic/quranic-arabic/"
+      },
+      {
+        "name": "Arabic lessons for beginners",
+        "url": "https://quranica.com/courses/arabic/lessons-for-beginners/"
+      }
+    ],
+    "Islamic Studies": [
+      {
+        "name": "Islamic studies online course",
+        "url": "https://quranica.com/courses/islamic-studies/"
+      },
+      {
+        "name": "Islamic studies for kids",
+        "url": "https://quranica.com/courses/islamic-studies/curriculum-and-classes-for-kids/"
+      },
+      {
+        "name": "Online Quran Tafseer course",
+        "url": "https://quranica.com/courses/islamic-studies/learn-tafseer/"
+      },
+      {
+        "name": "Online Islamic courses for ladies",
+        "url": "https://quranica.com/courses/islamic-studies/for-ladies-and-sisters/"
+      },
+      {
+        "name": "Five pillars of Islam for kids",
+        "url": "https://quranica.com/courses/islamic-studies/five-pillars-for-kids/"
+      }
+    ]
+  },
+  "note": "Audience menu links intentionally repeat some of the subject catalog links. All 35 original links appear under Our Courses; the redesigned Arabic course is served locally."
+}
